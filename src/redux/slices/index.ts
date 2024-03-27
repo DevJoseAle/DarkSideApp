@@ -1,0 +1,3 @@
+export {
+    favoriteSlice
+} from './favoritesSlice';
